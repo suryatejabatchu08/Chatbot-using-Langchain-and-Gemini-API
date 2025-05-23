@@ -53,11 +53,10 @@ You may need to adjust the entry point if your main script is named differently.
 ## Project Structure
 
 ```
-.
-├── main.py
+├── app.py
+├── chatbot.py
 ├── requirements.txt
-├── README.md
-└── (other Python modules)
+└── README.md
 ```
 
 ## Acknowledgments
